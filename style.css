@@ -1,0 +1,34 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #121212;
+  color: white;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#timer {
+  font-size: 80px;
+  margin: 20px;
+}
+
+#mode {
+  font-size: 30px;
+  color: orange;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.focus {
+  color: #ff4c4c;
+}
+
+.break {
+  color: #4caf50;
+}
